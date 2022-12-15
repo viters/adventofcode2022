@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Deno: d03.part2" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/d03/solution.part2.ts" programParameters="run --allow-read" workingDirectory="$PROJECT_DIR$/d03">
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
